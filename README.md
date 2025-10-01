@@ -1,9 +1,8 @@
-# Games Shop
+# 🎮 Games Shop
 
-## Projeto voltado a aprendizagem
+Um site para uma loja de games desenvolvido com HTML5 e CSS3.
 
-<p align="center">
-  <img alt="Preview da pagina Games Shop" src="./images/preview.png" width="100%">
-</p>
+## 🛠️ Tecnologias Utilizadas
 
-### Link do Projeto - (https://site-gameshop-sulivan7.vercel.app/)
+- **HTML5**
+- **CSS3**
